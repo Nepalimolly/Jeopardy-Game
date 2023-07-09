@@ -1,0 +1,21 @@
+/* some colors you may find useful:
+  #115ff4
+  #060ce9
+  #28a200
+  #8d2ab5
+  #74119c
+*/
+
+#game {
+  text-align: center;
+  font-size: 12px;
+  background-color: #115ff4;
+  color: white;
+}
+
+#game th,
+#game td {
+  border: solid 3px white;
+  width: 14em;
+  padding: 2em;
+}
